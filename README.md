@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- 💬 Ask me about anything
+- 📫 How to reach me: niko.kataja@yahoo.com
+- ⚡ Fun fact: I use nikedi, nut, nikok and variations of those as my online personas
 <!--
 **Nikedi/Nikedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
